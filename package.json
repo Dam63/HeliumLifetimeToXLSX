@@ -1,0 +1,21 @@
+{
+  "name": "helium-lifetime-to-xlsx",
+  "version": "1.0.0",
+  "description": "Export rewards from Hotspotty to CSV and XLSX formats",
+  "main": "scripts/export.js",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/export.js"
+  },
+  "keywords": [
+    "helium",
+    "hnt",
+    "hotspotty",
+    "export",
+    "csv",
+    "xlsx"
+  ],
+  "author": "Dam63",
+  "license": "MIT",
+  "dependencies": {}
+}
